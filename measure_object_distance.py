@@ -1,5 +1,3 @@
-#http://www.pysource.com
-
 from realsense_camera import RealsenseCamera
 from object_detection import ObjectDetection
 import cv2
